@@ -1,0 +1,28 @@
+_repo: The-Conspiracy-of-Pontiac-and-the-Indian-War-after-the-Conquest-of-Canada_39253
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkman, Francis
+    alias: Parkman, F. (Francis)
+    birthdate: 1823
+    deathdate: 1893
+    gutenberg_agent_id: '510'
+    url: http://www.gutenberg.org/2009/agents/510
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
+description: ''
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Pontiac''s Conspiracy, 1763-1765'
+title: The Conspiracy of Pontiac and the Indian War after the Conquest of Canada
+url: http://www.gutenberg.org/ebooks/39253
